@@ -57,7 +57,7 @@
 
 <!--START_SECTION:PROFILE-VIEWS-->
 <div align = "center">
-    <img src = "https://komarev.com/ghpvc/?username=yashEra&color=blue&style=flat" alt = "yashEra"/> 
+    <img src = "https://komarev.com/ghpvc/?username=hemrruu&color=blue&style=flat" alt = "hemrruu"/> 
 </div>
 <!--END_SECTION:PROFILE-VIEWS--><br/>
 
@@ -67,7 +67,7 @@
         <tr>
             <td align="right">
 <div align = "center">
-    <img src = "https://github-readme-stats.vercel.app/api?username=yashEra&show_icons=true&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true" alt = "yashEra"/> 
+    <img src = "https://github-readme-stats.vercel.app/api?username=hemrruu&show_icons=true&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true" alt = "hemrruu"/> 
 </div>
             </td>
             <td rowspan="2">
@@ -75,7 +75,7 @@
 
 <!--START_SECTION:README-STATS-LANGUAGES-->
 <div align = "center">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yashEra&langs_count=8&theme=blueberry&hide_border=false" alt = "yashEra"/> 
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hemrruu&langs_count=8&theme=blueberry&hide_border=false" alt = "hemrruu"/> 
 </div>
             </td>
         </tr>
@@ -85,7 +85,7 @@
 
 <!--START_SECTION:STREAK-STATS-->
 <div align = "center">
-    <img src = "https://streak-stats.demolab.com/?user=yashEra&theme=blueberry&hide_border=true" alt = "yashEra"/> 
+    <img src = "https://streak-stats.demolab.com/?user=hemrruu&theme=blueberry&hide_border=true" alt = "hemrruu"/> 
 </div>
             </td>
         </tr>
@@ -97,7 +97,7 @@
 <div align = "center">
     <img src = "https://github-profile-trophy.vercel.app/?username=yashEra&theme=dracula&no-frame=false&no-bg=false&margin-w=2&column=-1" alt = "yashEra"/> 
 </div>-->
-<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=yashEra&theme=radical&no-frame=false&no-bg=false&margin-w=5&margin-h=5&column=4" alt="kavindu-mane" /></p>
+<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=hemrruu&theme=radical&no-frame=false&no-bg=false&margin-w=5&margin-h=5&column=4" alt="hemrruu" /></p>
 
 <!--END_SECTION:PROFILE-TROPHY--><br/>
 
@@ -155,12 +155,6 @@ Kotlin                   0 secs              ░░░░░░░░░░░�
 VS Code                  8 hrs 9 mins        ███████████████████████░░   92.63 % 
 Android Studio           38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
 
-🐱‍💻 Projects: 
-artifinix                5 hrs 16 mins       ███████████████░░░░░░░░░░   59.91 % 
-racuwu-official          2 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   26.36 % 
-Lockit-Project           38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-cv                       23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-racuwu                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 💻 Operating System: 
 Windows                  8 hrs 48 mins       █████████████████████████   100.00 % 
@@ -180,7 +174,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
+![Lines of Code chart](https://raw.githubusercontent.com/yashEra/hemrruu/main/assets/bar_graph.png)
 
 
  Last Updated on 29/04/2024 18:34:57 UTC
