@@ -1,5 +1,5 @@
 <!--START_SECTION:TITLE-->
-# <p align = center>Hi , I'm Hemru Chamuditha &ensp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt= "yashEra" width="35"></p>
+# <p align = center>Hi , I'm Hemru Chamuditha &ensp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt= "Hemruu" width="35"></p>
 <!--END_SECTION:TITLE-->
 
 <!--START_SECTION:SUBTITLE-->
@@ -46,7 +46,7 @@
 <!--START_SECTION:SOCIAL-->
 ## <p align = center> 🌏 	Connect with me </p>
 <div align = center>
-<a href=https://facebook.com/yash.era1998 ><img src="https://img.shields.io/badge/facebook-yash.era1998-%230165E1.svg?style=flat&logo=facebook&logoColor=white" 
+<a href=https://www.facebook.com/profile.php?id=61553704863126 ><img src="https://img.shields.io/badge/facebook-yash.era1998-%230165E1.svg?style=flat&logo=facebook&logoColor=white" 
                 alt=facebook /></a> &ensp;
 <a href=https://instagram.com/__yash__er__ ><img src="https://img.shields.io/badge/instagram-__yash__er__-%23E1306C.svg?style=flat&logo=instagram&logoColor=white" 
                 alt=instagram /></a> &ensp;
