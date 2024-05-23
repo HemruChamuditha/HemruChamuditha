@@ -171,14 +171,3 @@ C                        2 repos             █░░░░░░░░░░�
 ```
 
 
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/yashEra/HemruChamuditha/main/assets/bar_graph.png)
-
-
- Last Updated on 29/04/2024 18:34:57 UTC
-<!--END_SECTION:waka-->
-
-
-<!-- Created with CreateME profile readme generator-->
