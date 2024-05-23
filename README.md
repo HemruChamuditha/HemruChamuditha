@@ -7,7 +7,7 @@
 <!--END_SECTION:SUBTITLE-->
 
 <!--START_SECTION:WORK-->
-***<p align = center>🌱 I'm currently learning React JS, Java, Flutter, Django, Next.js, AI/ML</p>***
+***<p align = center>🌱 I'm currently learning React JS, Java, Flutter, Next.js, AI/ML</p>***
 <!--END_SECTION:WORK-->
 
 <!--START_SECTION:SKILL-->
@@ -93,18 +93,15 @@
 </div>
 <!--END_SECTION:STREAK-STATS--><br/>
 
-<!--START_SECTION:PROFILE-TROPHY
+<!--START_SECTION:PROFILE-TROPHY-->
 <div align = "center">
     <img src = "https://github-profile-trophy.vercel.app/?username=yashEra&theme=dracula&no-frame=false&no-bg=false&margin-w=2&column=-1" alt = "yashEra"/> 
-</div>-->
+</div>
 <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=HemruChamuditha&theme=radical&no-frame=false&no-bg=false&margin-w=5&margin-h=5&column=4" alt="hemrruu" /></p>
 
 <!--END_SECTION:PROFILE-TROPHY--><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-207%20hrs%2022%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
