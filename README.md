@@ -57,7 +57,7 @@
 
 <!--START_SECTION:PROFILE-VIEWS-->
 <div align = "center">
-    <img src = "https://komarev.com/ghpvc/?username=hemrruu&color=blue&style=flat" alt = "hemrruu"/> 
+    <img src = "https://komarev.com/ghpvc/?username=HemruChamuditha&color=blue&style=flat" alt = "hemrruu"/> 
 </div>
 <!--END_SECTION:PROFILE-VIEWS--><br/>
 
@@ -85,7 +85,7 @@
 
 <!--START_SECTION:STREAK-STATS-->
 <div align = "center">
-    <img src = "https://streak-stats.demolab.com/?user=hemrruu&theme=blueberry&hide_border=true" alt = "hemrruu"/> 
+    <img src = "https://streak-stats.demolab.com/?user=HemruChamuditha&theme=blueberry&hide_border=true" alt = "hemrruu"/> 
 </div>
             </td>
         </tr>
@@ -97,7 +97,7 @@
 <div align = "center">
     <img src = "https://github-profile-trophy.vercel.app/?username=yashEra&theme=dracula&no-frame=false&no-bg=false&margin-w=2&column=-1" alt = "yashEra"/> 
 </div>-->
-<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=hemrruu&theme=radical&no-frame=false&no-bg=false&margin-w=5&margin-h=5&column=4" alt="hemrruu" /></p>
+<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=HemruChamuditha&theme=radical&no-frame=false&no-bg=false&margin-w=5&margin-h=5&column=4" alt="hemrruu" /></p>
 
 <!--END_SECTION:PROFILE-TROPHY--><br/>
 
@@ -174,7 +174,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/yashEra/hemrruu/main/assets/bar_graph.png)
+![Lines of Code chart](https://raw.githubusercontent.com/yashEra/HemruChamuditha/main/assets/bar_graph.png)
 
 
  Last Updated on 29/04/2024 18:34:57 UTC
