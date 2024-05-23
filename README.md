@@ -48,9 +48,9 @@
 <div align = center>
 <a href=https://www.facebook.com/profile.php?id=61553704863126 ><img src="https://img.shields.io/badge/facebook-Hemruu-%230165E1.svg?style=flat&logo=facebook&logoColor=white" 
                 alt=facebook /></a> &ensp;
-<a href=https://instagram.com/__yash__er__ ><img src="https://img.shields.io/badge/instagram-__yash__er__-%23E1306C.svg?style=flat&logo=instagram&logoColor=white" 
+<a href=https://www.instagram.com/hemrruu/><img src="https://img.shields.io/badge/instagram-Hemruu-%23E1306C.svg?style=flat&logo=instagram&logoColor=white" 
                 alt=instagram /></a> &ensp;
-<a href=https://www.linkedin.com/in/yasitheranda><img src="https://img.shields.io/badge/linkedin-yasitheranda-%230072b1.svg?style=flat&logo=linkedin&logoColor=white" 
+<a href=https://www.linkedin.com/in/hemru-chamuditha/><img src="https://img.shields.io/badge/linkedin-Hemru Chamuditha-%230072b1.svg?style=flat&logo=linkedin&logoColor=white" 
                 alt=linkedin /></a> &ensp;
 </div>
 <!--END_SECTION:SOCIAL--><br/>
