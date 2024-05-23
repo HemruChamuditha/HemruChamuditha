@@ -67,7 +67,7 @@
         <tr>
             <td align="right">
 <div align = "center">
-    <img src = "https://github-readme-stats.vercel.app/api?username=hemrruu&show_icons=true&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true" alt = "hemrruu"/> 
+    <img src = "https://github-readme-stats.vercel.app/api?username=HemruChamuditha&show_icons=true&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true" alt = "hemrruu"/> 
 </div>
             </td>
             <td rowspan="2">
@@ -75,7 +75,7 @@
 
 <!--START_SECTION:README-STATS-LANGUAGES-->
 <div align = "center">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hemrruu&langs_count=8&theme=blueberry&hide_border=false" alt = "hemrruu"/> 
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HemruChamuditha&langs_count=8&theme=blueberry&hide_border=false" alt = "hemrruu"/> 
 </div>
             </td>
         </tr>
