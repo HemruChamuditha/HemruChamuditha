@@ -93,10 +93,10 @@
 </div>
 <!--END_SECTION:STREAK-STATS--><br/>
 
-<!--START_SECTION:PROFILE-TROPHY-->
+<!--START_SECTION:PROFILE-TROPHY
 <div align = "center">
     <img src = "https://github-profile-trophy.vercel.app/?username=yashEra&theme=dracula&no-frame=false&no-bg=false&margin-w=2&column=-1" alt = "yashEra"/> 
-</div>
+</div>-->
 <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=HemruChamuditha&theme=radical&no-frame=false&no-bg=false&margin-w=5&margin-h=5&column=4" alt="hemrruu" /></p>
 
 <!--END_SECTION:PROFILE-TROPHY--><br/>
@@ -107,14 +107,12 @@
 
 > 📦 683.1 kB Used in GitHub's Storage 
  > 
-> 🏆 422 Contributions in the Year 2024
+> 🏆 63 contributions in 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 28 Public Repositories 
- > 
-> 🔑 8 Private Repositories 
- > 
+> 📜 13 Public & Private Repositories
+> 
 **I'm an Early 🐤** 
 
 ```text
