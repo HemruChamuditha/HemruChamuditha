@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Hemru Chamuditha</h1>
 <h3 align="center">I am a final-year Computer Science undergraduate passionate about quality assurance and software testing</h3>
-<img align="right" alt="coding" width="250" src="[https://cdn.pixabay.com/animation/2024/06/04/13/22/13-22-13-877_512.gif](https://cdn.pixabay.com/animation/2024/09/09/14/14/14-14-48-336_512.gif)">
+<img align="right" alt="coding" width="250" src="https://cdn.pixabay.com/animation/2024/06/04/13/22/13-22-13-877_512.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanuvithisansa&label=Profile%20views&color=0e75b6&style=flat" alt="sanuvithisansa" /> </p>
 
