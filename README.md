@@ -1,10 +1,8 @@
-
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40" />
-  <span style="font-family: 'Courier New', Courier, monospace; color: #4e9e4e;">Hi 👋,</span><br>
-  <span style="font-family: 'Comic Sans MS', cursive; color: #3366ff; font-size: 2.5em;">I'm Hemru Chamuditha!</span><br>
-  <span style="font-family: 'Arial', sans-serif; color: #f1c40f; font-size: 1.5em;">Welcome to my GitHub profile</span>
+  <span style="font-family: 'Comic Sans MS', cursive; color: #4e9e4e; font-size: 3em;">Hi 👋, I'm Hemru Chamuditha!</span><br>
+  <span style="font-family: 'Arial', sans-serif; color: #3366ff; font-size: 1.5em;">Welcome to my GitHub profile</span>
 </h1>
+
 
 <h3 align="center">Final-year Computer Science student passionate about quality assurance and software testing</h3>
 <p></p>
