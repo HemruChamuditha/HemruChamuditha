@@ -1,14 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Hemru Chamuditha</h1>
-<h3 align="center">I am a final-year Computer Science undergraduate passionate about quality assurance and software testing</h3>
+<h3 align="center">Final-year Computer Science student passionate about quality assurance and software testing</h3>
 <img align="right" alt="coding" width="350" src="https://cdn.pixabay.com/animation/2024/09/09/14/14/14-14-48-336_512.gif">
 
 
-- 🔭 I’m currently working on **ParkMe Mobile App**
+- 🌱 I’m currently learning **Selenium, TestNG, and test automation frameworks**.
 
-- 🌱 I’m currently learning **Flutter, React Native**
-
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/sanuvi-lokugamage](www.linkedin.com/in/sanuvi-lokugamage)
+- 👨‍💻 All of my projects are available at https://www.linkedin.com/in/hemru-chamuditha/.
 
 - 📝 I regularly write articles on [https://innercapsule.blogspot.com/](https://innercapsule.blogspot.com/)
 
