@@ -1,7 +1,8 @@
 <h1 align="center">
   <span style="font-family: 'Comic Sans MS', cursive; color: #4e9e4e; font-size: 3em;">Hi 👋, I'm Hemru Chamuditha!</span><br>
-  <span style="font-family: 'Arial', sans-serif; color: #3366ff; font-size: 1.5em;">Welcome to my GitHub profile</span>
+  <span style="font-family: 'Arial', sans-serif; color: #3366ff; font-size: 1.2em;">Welcome to my GitHub profile</span>
 </h1>
+
 
 
 <h3 align="center">Final-year Computer Science student passionate about quality assurance and software testing</h3>
