@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Sanuvi Lokugamage</h1>
+<h1 align="center">Hi 👋, I'm Hemru Chamuditha</h1>
 <h3 align="center">A passionate Software Quality Assurance Engineer from Sri Lanka</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
