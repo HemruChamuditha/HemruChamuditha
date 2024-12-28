@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Hemru Chamuditha</h1>
 <h3 align="center">Final-year Computer Science student passionate about quality assurance and software testing</h3>
+
 <img align="right" alt="coding" width="350" src="https://cdn.pixabay.com/animation/2024/09/09/14/14/14-14-48-336_512.gif">
 
 
