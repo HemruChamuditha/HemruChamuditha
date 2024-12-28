@@ -20,11 +20,7 @@
 <p align="left">
   
 <a href="https://www.linkedin.com/in/hemru-chamuditha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hemru Chamuditha" height="30" width="40" /></a>
-<a href="https://medium.com/@HemruChamuditha" target="blank"><img align="center" src="<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="256" height="256" viewBox="0 0 256 256" xml:space="preserve">
-
-
 <a href="https://twitter.com/sanuvi lokugamage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanuvi lokugamage" height="30" width="40" /></a>
-
 <a href="https://stackoverflow.com/users/15350896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15350896" height="30" width="40" /></a>
 <a href="https://fb.com/sanuvi lokugamage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanuvi lokugamage" height="30" width="40" /></a>
 <a href="https://instagram.com/sanuvi00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanuvi00" height="30" width="40" /></a>
