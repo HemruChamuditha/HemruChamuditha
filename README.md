@@ -4,11 +4,11 @@
 <img align="right" alt="coding" width="350" src="https://cdn.pixabay.com/animation/2024/09/09/14/14/14-14-48-336_512.gif">
 
 
-- 🌱 I’m currently learning **Selenium, TestNG, and test automation frameworks**.
+- I’m currently learning **Selenium, TestNG, and test automation frameworks**.
 
-- 👨‍💻 All of my projects are available at https://www.linkedin.com/in/hemru-chamuditha/.
+- All of my projects are available at https://www.linkedin.com/in/hemru-chamuditha/.
 
-- 📝 I regularly write articles on [https://innercapsule.blogspot.com/](https://innercapsule.blogspot.com/)
+- I frequently share my insights and articles on https://medium.com/@HemruChamuditha
 
 - 💬 Ask me about **Java, Web Development**
 
