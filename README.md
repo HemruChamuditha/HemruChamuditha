@@ -10,11 +10,11 @@
 
 - I frequently share my insights and articles on https://medium.com/@HemruChamuditha
 
-- 💬 Ask me about **Java, Web Development**
+- Ask me about **Java & Software Testing Concepts**
 
-- 📫 How to reach me **sanuvithisansa00@gmail.com**
+- Get in touch with me **chamudhitha123@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/sanuvi-lokugamage](www.linkedin.com/in/sanuvi-lokugamage)
+- Explore my professional certifications and volunteering journey https://www.linkedin.com/in/hemru-chamuditha/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
