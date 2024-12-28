@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Hemru Chamuditha</h1>
-<h3 align="center">I am driven by a passion for using technology to address real-world challenges</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*qdAW1TjCN57h1lbuuzvchg.gif">
+<h3 align="center">I am a motivated final-year Computer Science undergraduate passionate about quality assurance and software testing</h3>
+<img align="right" alt="coding" width="400" src="[https://miro.medium.com/v2/resize:fit:1358/1*qdAW1TjCN57h1lbuuzvchg.gif](https://cdnl.iconscout.com/lottie/premium/thumb/quality-assurance-animation-download-in-lottie-json-gif-static-svg-file-formats--like-logo-badge-best-management-nallow-pack-business-animations-7271793.mp4)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanuvithisansa&label=Profile%20views&color=0e75b6&style=flat" alt="sanuvithisansa" /> </p>
 
