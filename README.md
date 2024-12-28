@@ -20,7 +20,6 @@
 <p align="left">
   
 <a href="https://www.linkedin.com/in/hemru-chamuditha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hemru Chamuditha" height="30" width="40" /></a>
-
 <a href="https://x.com/HemruChamuditha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hemru Chamuditha" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14680430/hemru-chamuditha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Hemru Chamuditha" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=61553704863126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Hemru Chamuditha" height="30" width="40" /></a>
