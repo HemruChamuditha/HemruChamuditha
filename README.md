@@ -3,9 +3,6 @@
 <h3 align="center">I am a final-year Computer Science undergraduate passionate about quality assurance and software testing</h3>
 <img align="right" alt="coding" width="350" src="https://cdn.pixabay.com/animation/2024/09/09/14/14/14-14-48-336_512.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanuvithisansa&label=Profile%20views&color=0e75b6&style=flat" alt="sanuvithisansa" /> </p>
-
-<p align="left"> <a href="https://twitter.com/sanuvi lokugamage" target="blank"><img src="https://img.shields.io/twitter/follow/sanuvi lokugamage?logo=twitter&style=for-the-badge" alt="sanuvi lokugamage" /></a> </p>
 
 - 🔭 I’m currently working on **ParkMe Mobile App**
 
