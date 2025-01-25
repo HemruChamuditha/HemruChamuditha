@@ -18,8 +18,6 @@
 
 - I frequently share my insights and articles on https://medium.com/@HemruChamuditha
 
-- Ask me about **Java & Software Testing Concepts**
-
 - Get in touch with me **chamudhitha123@gmail.com**
 
 - Explore my professional certifications and volunteering journey https://www.linkedin.com/in/hemru-chamuditha/
