@@ -16,7 +16,7 @@
 
 - All of my projects are available at https://www.linkedin.com/in/hemru-chamuditha/.
 
-- I frequently share my insights and articles on https://medium.com/@HemruChamuditha
+- I share my articles on https://medium.com/@HemruChamuditha
 
 - Get in touch with me **chamudhitha123@gmail.com**
 
