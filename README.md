@@ -12,7 +12,7 @@
 </p>
 
 
-- I’m currently learning **Selenium, TestNG, and test automation frameworks**.
+- I’m currently learning **Selenium and test automation frameworks**.
 
 - All of my projects are available at https://www.linkedin.com/in/hemru-chamuditha/.
 
